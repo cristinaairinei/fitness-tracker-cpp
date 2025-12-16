@@ -8,5 +8,5 @@ The application manages fitness activities and includes:
 - Undo/redo functionality using the Command pattern
 - Filtering using the Strategy pattern
 - Graphical user interface (Qt)
-
+  
 
